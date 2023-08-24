@@ -38,6 +38,7 @@ This framework uses the following Maven dependencies::
 1. Clone this repository to your local machine:
 
 `git clone https://github.com/djamart/AppiumTUITestFramework.git`
+
 2. Navigate to the project directory:
 
 `cd AppiumTUITestFramework`
